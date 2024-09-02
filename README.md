@@ -1,4 +1,4 @@
-# Assignment 1 - ReactJS app.
+# Assignment 2 - ReactJS app.
 
 Name: John O'Mahony (20098626)
 
